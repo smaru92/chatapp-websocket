@@ -1,0 +1,7 @@
+boto3==1.28.64
+deepl
+python-dotenv
+python-jose==3.3.0
+requests==2.32.3
+simplejson==3.19.1
+websockets==11.0.3
